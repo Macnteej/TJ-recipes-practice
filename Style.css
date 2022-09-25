@@ -1,0 +1,14 @@
+h1 {
+    color: black;
+    background-color: red;
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
+
+}
+
+.button {
+    color: Black;
+    background-color: orange;
+    font-size: 18px;
+}
