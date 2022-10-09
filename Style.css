@@ -1,14 +1,32 @@
 h1 {
     color: black;
-    background-color: red;
-    font-size: 32px;
+    background-color: orangered;
+    padding: 36px;
+    margin-bottom: 20px;
+    font-size: 18px;
     text-align: center;
     font-weight: bold;
+}
+
+div {
+    padding: 24px;
+    text-align: center;
+    margin-bottom: 10px;
+    color: #EEEEEE;
 
 }
 
-.button {
-    color: Black;
-    background-color: orange;
-    font-size: 18px;
+.Pizza {
+    background-color: green;
+    font-size: 12px;
+}
+
+.Baked-Ziti {
+    background-color: gold;
+    font-size: 12px;
+}
+
+.Breakfast-Smoothie {
+    background-color: violet;
+    font-size: 12px;
 }
